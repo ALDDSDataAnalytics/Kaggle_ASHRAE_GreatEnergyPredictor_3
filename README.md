@@ -10,7 +10,7 @@ The evaluation metric for this competition is Root Mean Squared Logarithmic Erro
 
 The RMSLE is calculated as
 
-![A1]
+![A1](https://github.com/ALDDSDataAnalytics/Kaggle_ASHRAE_GreatEnergyPredictor_3/blob/main/Screenshots/A1.PNG)
 
 
 Where:
