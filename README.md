@@ -33,4 +33,9 @@ For each id in the test set, you must predict the target variable. The file shou
  1,0
  2,0
  etc.
+## Data 
+Data Used
+
+
+
 
