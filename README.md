@@ -36,6 +36,6 @@ For each id in the test set, you must predict the target variable. The file shou
 ## Data 
 Data Used
 
-
+Screenshots/Data.PNG
 
 
