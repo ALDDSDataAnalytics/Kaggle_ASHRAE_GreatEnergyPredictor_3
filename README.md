@@ -36,6 +36,6 @@ For each id in the test set, you must predict the target variable. The file shou
 ## Data 
 Data Used
 
-![Data]Screenshots/Data.PNG
+![Data](https://github.com/ALDDSDataAnalytics/Kaggle_ASHRAE_GreatEnergyPredictor_3/blob/main/Screenshots/Data.PNG?raw=true)
 
 
