@@ -1,4 +1,6 @@
-# Kaggle_ASHRAE_GreatEnergyPredictor_3
+# Kaggle-ASHRAE-Energy-Prediction
+
+A competition where accurate models of metered building energy usage in the following areas: chilled water, electric, hot water, and steam meters are developed. 
 
 ## Description
 
