@@ -12,9 +12,7 @@ The RMSLE is calculated as
 
 ![A1](https://github.com/ALDDSDataAnalytics/Kaggle_ASHRAE_GreatEnergyPredictor_3/blob/main/Screenshots/A1.PNG)
 
-
-Where:
-
+Where
  is the RMSLE value (score)
  is the total number of observations in the (public/private) data set,
  is your prediction of target, and
